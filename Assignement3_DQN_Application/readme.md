@@ -1,4 +1,4 @@
-# Lunar Lander Based on DQN
+# Tetris Based on DQN
 
 ## 项目名称
 
